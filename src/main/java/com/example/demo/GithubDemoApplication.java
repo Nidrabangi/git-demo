@@ -11,6 +11,7 @@ public class GithubDemoApplication {
 		SpringApplication.run(GithubDemoApplication.class, args);
 		
 		System.out.println();
+		System.out.println("this is second");
 	}
 
 }
